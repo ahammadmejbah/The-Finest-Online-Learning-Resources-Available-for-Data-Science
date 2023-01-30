@@ -13,7 +13,7 @@ Learners will be able to discover here a thorough tutorial for studying data sci
 4. <b><h3><code><a href="">The Master's Program in Open Source Data Science:</a></code></h3></b>
 You will be able to get a better understanding of the notion of data science by using the many helpful tools that are provided on this page. They cover a wide range of topics, from data design to computers and mathematics, and include books, tutorials, and study groups for those topics. Clare Corthell, founding partner of the data science firm Luminant Data, is the one who collected all of the information and put it all together for you.
 
-5. <b><h3><code><a href="">Read the following to learn data science from nborwankar:</a></code><h3></b>
+5. <b><h3><code><a href="">Read the following to learn data science from nborwankar:</a></code></h3></b>
 Learners will discover a range of resources to assist them in studying data science via the use of IPython Notebooks in this section of the site. These books include a wide range of important subjects, such as random forests and linear regression, as well as data explorations and analyses of each domain. Worksheets for students to practice on are also provided.
 
 6. <b><h3><code><a href="">This week in Data Science:</a></code></h3></b>
