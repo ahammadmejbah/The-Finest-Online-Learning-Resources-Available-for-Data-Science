@@ -53,4 +53,4 @@ This worldwide conference, which is organized and administered by the non-profit
 18. <b><h4><code><a href="https://www.reddit.com/r/MachineLearning/">Reddit:</a></code></h4></b>
 This website gives users a forum in which they may discuss data mining topics, exchange research papers and tools, and boasts a membership base of over 30,000 individuals. Additionally, it is an excellent resource for data scientists who are interested in making connections with others who share their interests and who may be able to offer them novel approaches to solving problems.
 
-**Credit:** <a href="https://github.com/ahammadmejbah">Mejbah Ahammad</a>
+**Credit:** <a href="https://www.simplilearn.com/resources-to-learn-data-science-online-article">Simplilearn</a>
