@@ -5,7 +5,7 @@
 Tutorials are available on Codementor for both novices and experienced programmers. Learners get access to a number of helpful resources that explain how to analyze data in the most effective way possible. These guides include introductions to machine learning as well as suggestions on selecting the appropriate data analytics software packages.
 
 2. <b><h4><code><a href="https://www.topcoder.com/community/data-science/data-science-tutorials/">Topcoder:</a></code></h4></b>
-This website provides lessons that talk about the many different ideas that are involved in data science. Additionally, it provides a venue for industry professionals to give guidance. In addition to this, they provide knowledge that is applicable in the real world on a wide variety of subjects, as well as start-up tips for users who are just joining the site.
+This website provides lessons that talk about the many different ideas that are involved in data science. Additionally, it provides a venue for industry professionals to give guidance. In addition to this, they provide knowledge that is applicable in the real world on a wide variety of subjects, as well as start-up tips for users who are just joining the sites.
 
 3. <b><h4><code><a href="https://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/">Analytics Vidhya:</a></code></h4></b>
 Learners will be able to discover here a thorough tutorial for studying data science with R. This tutorial includes an in-depth guide that covers everything from the fundamentals of programming and data exploration to predictive modeling and the modification of data. There are many more data science tutorials accessible, such as one that teaches you how to study data science using Python.
